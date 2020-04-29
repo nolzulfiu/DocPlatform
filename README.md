@@ -11,28 +11,25 @@ API: Express
 
 Compiler: Babel
 
-CORS: Cross Domain Requests
+Cross Domain Requests: CORS
 
-HTML-PDF: PDF Conversion
+PDF Conversion: HTML-PDF
 
-Multer: File Upload
+File Upload: Multer
 
-Sequelize: ORM
+ORM: Sequelize
 
-SQLite3: DB
+DB: SQLite3
 
 
 ### Frontend
 
-Formik: Form Handling Function
+Form Handling Function: Formik
 
-Bootstrap: UI
+UI: Bootstrap
 
-CKEditor: Text Editor
+Text Editor: CKEditor
 
-Yup: Object Schema Validation
+Object Schema Validation: Yup
 
-Moment.js: To display datetime easier
-
-
-For multiple collaborators I would use the CKEditor Real-time collaboration features integration 
+DateTime Displayer: Moment.js
