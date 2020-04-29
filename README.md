@@ -1,35 +1,49 @@
-Run python script.py which will install all dependencies
+# DocPlatform
 
-Run npm start in the backend folder
+## Installation
 
-Run npm start in the frontend folder (you will need to choose port 3001)
+
+Install all dependencies
+```bash
+python script.py
+```
+
+Start the backend
+```bash
+npm start
+```
+
+Start the frontend (you will need to choose port 3001)
+```bash
+npm start
+```
 
 
 ### Backend
 
-API: Express
+**API:** Express
 
-Compiler: Babel
+**Compiler:** Babel
 
-Cross Domain Requests: CORS
+**Cross Domain Requests:** CORS
 
-PDF Conversion: HTML-PDF
+**PDF Conversion:** HTML-PDF
 
-File Upload: Multer
+**File Upload:** Multer
 
-ORM: Sequelize
+**ORM:** Sequelize
 
-DB: SQLite3
+**DB:** SQLite3
 
 
 ### Frontend
 
-Form Handling Function: Formik
+**Form Handling Function:** Formik
 
-UI: Bootstrap
+**UI:** Bootstrap
 
-Text Editor: CKEditor
+**Text Editor:** CKEditor
 
-Object Schema Validation: Yup
+**Object Schema Validation:** Yup
 
-DateTime Displayer: Moment.js
+**DateTime Displayer:** Moment.js
