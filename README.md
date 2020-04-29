@@ -7,9 +7,9 @@ Run npm start in the frontend folder (you will need to choose port 3001)
 
 ### Backend
 
-Express
+API: Express
 
-Babel
+Compiler: Babel
 
 CORS: Cross Domain Requests
 
