@@ -1,9 +1,8 @@
-Run npm install in the project
+Run python script.py which will install all dependencies
 
 Run npm start in the backend folder
 
 Run npm start in the frontend folder (you will need to choose port 3001)
-
 
 
 ### Backend
