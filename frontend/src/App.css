@@ -1,0 +1,26 @@
+.page {
+  padding: 20px;
+}
+.content-invalid-feedback {
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #dc3545;
+}
+nav.navbar {
+  background-color: #1d3f58;
+}
+
+#pdflink {
+  padding-left: 50px;
+  padding-right: -250px;
+}
+
+.editor {
+  min-height: 400px;
+}
+
+.open-button {
+  margin-left: 10%;
+  margin-right: -50%;
+}
